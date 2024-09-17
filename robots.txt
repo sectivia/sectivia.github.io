@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://sectivia.github.io/sitemap.html.gz
+Sitemap: https://sectivia.github.io/app/sitemap.html.gz
+Sitemap: https://sectivia.github.io/assets/sitemap.html.gz
+Sitemap: https://sectivia.github.io/css/sitemap.html.gz
+Sitemap: https://sectivia.github.io/includes/sitemap.html.gz
+Sitemap: https://sectivia.github.io/item/sitemap.html.gz
+Sitemap: https://sectivia.github.io/src/sitemap.html.gz
